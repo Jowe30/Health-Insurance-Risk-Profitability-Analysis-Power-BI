@@ -54,4 +54,53 @@ This page highlights the key risk drivers that increase healthcare costs.
 Purpose: Evaluate whether premiums sufficiently cover customer healthcare expenses.
 Visuals include:
 - Combined line and column chart comparing Premium vs Expenses
-- 
+- Loss Ratio analysis by region and customer segment
+
+This helps determine whether the insurance company is underpricing high-risk customers.
+
+#### Page 3: Discount Impact
+Purpose: Assess the financial performance of customers who receive discounts.
+Visuals include:
+- Profit comparison between Discount vs Non-Discount customers
+- Expense and Premium comparison by discount eligibility
+
+This analysis evaluates whether the discount program supports or erodes profitability.
+
+#### Page 4: Profitability by Customer Segment
+Purpose: Identify the most profitable customer segments.
+Visuals include:
+- Matrix segmentation of customers by Age, Gender, and Children
+- Treemap of profit contribution by region
+- Waterfall chart showing profit drivers
+
+This page identifies high-value customer groups and risk-heavy segments.
+
+### Key Insights
++ BMI and Age are the strongest predictors of higher medical expenses.
++ Certain high-risk segments show expenses approaching or exceeding premium levels, suggesting pricing misalignment.
++ Customers receiving discounts demonstrate lower profit margins, indicating the discount strategy may require refinement.
++ Mid-age customers with moderate BMI generate the most stable profitability.
+
+### Recommendations
+1. Introduce risk-adjusted premium pricing based on BMI and age groups.
+2. Monitor loss ratios at the segment level to prevent underwriting losses.
+3. Redesign the discount program to target lower-risk customers.
+4. Focus acquisition efforts on customer segments with stable loss ratios and positive margins.
+
+### Tools Used
+- Power BI (Data modeling, dashboard design, DAX measures)
+- Power Query (Data transformation)
+- Business analytics frameworks for profitability and risk segmentation.
+
+### Skills Demonstrated
+This project demonstrates the application of:
++ Business analytics
++ Financial analysis
++ Risk assessment
++ Data visualization for executive decision-making
++ Dashboard storytelling
+
+### Project Outcome
+The dashboard provides a structured framework for evaluating insurance portfolio performance and identifying opportunities to improve pricing strategy, risk management, and customer profitability.
+
+The analysis demonstrates how operational data can be transformed into strategic insights for executive decision-making.
